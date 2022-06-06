@@ -1,0 +1,4 @@
+FLO_URL = "https://w3flo.com/live"
+W3C_URL = "https://website-backend.w3champions.com/api/players/"
+DISCORD_TOKEN = "<YOUR_DISCORD_BOT_TOKEN>"
+DRIVER_PATH = "<PATH_TO_WEBDRIVER>"
